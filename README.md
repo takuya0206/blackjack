@@ -1,1 +1,1 @@
-# blackjack
+Please read the following first.
